@@ -6,5 +6,8 @@ CardWorkout is part of [Sean Allen](https://seanallen.co)’s [iOS Dev Launchpad
 
 There are 2 versions of the same app, whose purpose is to demonstrate 2 different approaches to designing an app: via Storyboard &amp; programmatically
 
+## Screenshot
+[screenshot.gif](screenshots/screenshot.gif)
+
 ## Related Info
 CardWorkout repo is coded using Swift 5.4, Xcode 12.5 as of June 2021
